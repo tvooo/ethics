@@ -20,3 +20,7 @@ A collection of resources regarding ethics in technology and design
 
 * Viktor Papanek — [Design for the Real World](www.amazon.co.uk/Design-Real-World-Ecology-Social/dp/0500273588)
 * Mike Monteiro — [Design is a Job](http://www.abookapart.com/products/design-is-a-job)
+
+## General
+
+* [Cyberethics](https://en.wikipedia.org/wiki/Cyberethics) on Wikipedia
