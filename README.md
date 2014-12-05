@@ -9,6 +9,10 @@ A collection of resources regarding ethics in technology and design
 * Mike Monteiro — [How Designers Destroyed the World](https://vimeo.com/68470326)
 * Maciej Cegłowski — [The Internet with a Human Face](https://vimeo.com/102717446)
 
+## Podcasts
+
+* Graphic Designer Podcast — [Being Ethical](http://graphicdesignerpodcast.com/ethical/)
+
 ## Articles
 
 * Dr. Nicholas Bowman — [The Ethics of UX Research](http://www.uxbooth.com/articles/ethics-ux-research/)
