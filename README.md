@@ -5,6 +5,7 @@ A collection of resources regarding ethics in technology and design
 
 ## Talks
 
+* Gerd Leonhard — [Digital ethics and the future of humans in a connected world](https://www.youtube.com/watch?v=bZn0IfOb61U)
 * Cennydd Bowles — [The Ethical Designer](https://www.youtube.com/watch?v=SB_GDF-mKTE)
 * Mike Monteiro — [How Designers Destroyed the World](https://vimeo.com/68470326)
 * Maciej Cegłowski — [The Internet with a Human Face](https://vimeo.com/102717446)
