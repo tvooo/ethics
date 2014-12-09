@@ -22,6 +22,10 @@ A collection of resources regarding ethics in technology and design
 * Tim von Oldenburg — [Don't Be a Jerk](https://medium.com/@sweeneytimm/dont-be-a-jerk-dd37117c9412) *shameless self-promotion*
 * Dustin Curtis — [Privacy vs. User Experience](http://dcurt.is/privacy-vs-user-experience)
 
+## Websites
+
+* [Robot Regime](http://robotregime.com/)
+
 ## Books
 
 * Viktor Papanek — [Design for the Real World](www.amazon.co.uk/Design-Real-World-Ecology-Social/dp/0500273588)
