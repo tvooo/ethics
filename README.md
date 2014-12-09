@@ -15,6 +15,7 @@ A collection of resources regarding ethics in technology and design
 
 ## Articles
 
+* Michael Sacasas — [Do Artifacts Have Ethics?](http://thefrailestthing.com/2014/11/29/do-artifacts-have-ethics/)
 * Dr. Nicholas Bowman — [The Ethics of UX Research](http://www.uxbooth.com/articles/ethics-ux-research/)
 * Chris Fabian & Robert Fabricant — [The Ethics of Innovation](http://www.ssireview.org/blog/entry/the_ethics_of_innovation)
 * Tim von Oldenburg — [Don't Be a Jerk](https://medium.com/@sweeneytimm/dont-be-a-jerk-dd37117c9412) *shameless self-promotion*
