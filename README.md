@@ -16,6 +16,7 @@ A collection of resources regarding ethics in technology and design
 
 ## Articles
 
+* Cennydd Bowles — [The ethics of digital design](http://www.designcouncil.org.uk/news-opinion/ethics-digital-design)
 * Michael Sacasas — [Do Artifacts Have Ethics?](http://thefrailestthing.com/2014/11/29/do-artifacts-have-ethics/)
 * Dr. Nicholas Bowman — [The Ethics of UX Research](http://www.uxbooth.com/articles/ethics-ux-research/)
 * Chris Fabian & Robert Fabricant — [The Ethics of Innovation](http://www.ssireview.org/blog/entry/the_ethics_of_innovation)
@@ -28,6 +29,7 @@ A collection of resources regarding ethics in technology and design
 
 ## Books
 
+* Peter-Paul Verbeek — [Moralizing Technology: Understanding and Designing the Morality of Things](http://www.amazon.com/Moralizing-Technology-Understanding-Designing-Morality/dp/0226852938)
 * Viktor Papanek — [Design for the Real World](www.amazon.co.uk/Design-Real-World-Ecology-Social/dp/0500273588)
 * Mike Monteiro — [Design is a Job](http://www.abookapart.com/products/design-is-a-job)
 
