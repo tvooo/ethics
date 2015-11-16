@@ -1,7 +1,7 @@
 Ethics in Technology and Design
 ======
 
-A collection of resources regarding ethics in technology and design
+A collection of resources regarding ethics in technology and design, no matter if coming from practice, academia, or pop culture.
 
 ## Talks
 
@@ -22,6 +22,13 @@ A collection of resources regarding ethics in technology and design
 * Chris Fabian & Robert Fabricant — [The Ethics of Innovation](http://www.ssireview.org/blog/entry/the_ethics_of_innovation)
 * Tim von Oldenburg — [Don't Be a Jerk](https://medium.com/@sweeneytimm/dont-be-a-jerk-dd37117c9412) *shameless self-promotion*
 * Dustin Curtis — [Privacy vs. User Experience](http://dcurt.is/privacy-vs-user-experience)
+* James Williams — [Why It’s OK to Block Ads](http://blog.practicalethics.ox.ac.uk/2015/10/why-its-ok-to-block-ads/)
+
+## Academic Papers
+
+These papers might be paywalled.
+
+* Luciano Floridi — [Distributed Morality in an Information Society](http://link.springer.com/article/10.1007/s11948-012-9413-4)
 
 ## Websites
 
