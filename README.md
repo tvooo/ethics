@@ -43,3 +43,7 @@ These papers might be paywalled.
 ## General
 
 * [Cyberethics](https://en.wikipedia.org/wiki/Cyberethics) on Wikipedia
+
+## Frameworks, Toolkits, Guidelines, Checklists
+
+* [Design with Intent Toolkit](http://designwithintent.co.uk/introduction-to-the-design-with-intent-toolkit/)
