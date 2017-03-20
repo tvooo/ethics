@@ -59,8 +59,14 @@
         {
           "href": "https://github.com/tvooo",
           "text": "tvooo"
+        },
+        {
+          "href": "#",
+          "text": "Hello?"
         }
-      ]
+      ],
+      "heading": "Headingding",
+      "image": "https://unsplash.com/photos/twg_5G1SZ8Y/download?force=true"
     }
   ]
 }
