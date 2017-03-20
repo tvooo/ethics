@@ -43,23 +43,6 @@
       ]
     },
     {
-      "component": "header",
-      "heading": "ethics",
-      "subhead": "A collection of resources regarding ethics in technology and design",
-      "children": [
-        {
-          "component": "ui/TweetButton",
-          "text": "ethics: A collection of resources regarding ethics in technology and design",
-          "url": null
-        },
-        {
-          "component": "ui/GithubButton",
-          "user": "tvooo",
-          "repo": "ethics"
-        }
-      ]
-    },
-    {
       "component": "article",
       "metadata": {
         "source": "github.readme"
