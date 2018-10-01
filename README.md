@@ -42,6 +42,7 @@ These papers might be paywalled.
 
 ## Books
 
+* Cennydd Bowles - Future Ethics
 * Peter-Paul Verbeek — [Moralizing Technology: Understanding and Designing the Morality of Things](http://www.amazon.com/Moralizing-Technology-Understanding-Designing-Morality/dp/0226852938)
 * Viktor Papanek — [Design for the Real World](www.amazon.co.uk/Design-Real-World-Ecology-Social/dp/0500273588)
 * Mike Monteiro — [Design is a Job](http://www.abookapart.com/products/design-is-a-job)
