@@ -1,7 +1,13 @@
-Ethics in Technology and Design
-======
+# Ethics in Technology and Design
 
-A collection of resources regarding ethics in technology and design, no matter if coming from practice, academia, or pop culture.
+A collection of resources regarding ethics in technology and design.
+
+This is a collection, not a curation; not all of these sources will be high quality. They may ignore the fact that Ethics is, in fact, a philosophical discipline comprising many different ethical theories, and will treat ethics in an everyday "well, just don't be moron" kind of way. And so, this collection is for me, and anyone else interested, to get an overview over the ethics discourse in design and tech, and has no aspiration to be of the highest of quality. The following resources come from everywhere, including practice, academia, or pop culture.
+
+## Codes and Manifestos
+
+* [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics)
+* ind.ie - [Ethical Design Manifesto](https://2017.ind.ie/ethical-design/)
 
 ## Talks
 
