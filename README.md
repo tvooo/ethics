@@ -9,6 +9,10 @@ This is a collection, not a curation; not all of these sources will be high qual
 * [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics)
 * ind.ie - [Ethical Design Manifesto](https://2017.ind.ie/ethical-design/)
 
+## Videos
+
+* [Ethics for Design](http://ethicsfordesign.com/)
+
 ## Talks
 
 * Gerd Leonhard — [Digital ethics and the future of humans in a connected world](https://www.youtube.com/watch?v=bZn0IfOb61U)
